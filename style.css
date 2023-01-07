@@ -1,0 +1,25 @@
+#imageheader {
+    padding: 50px 100px 50px;
+}
+
+#imageperfil {
+    padding: 50px 100px 50px;
+}
+
+#imagemcurric {
+    padding: 0px 200px 20px;
+}
+
+#startbar {
+    background-color: rgb(245, 205, 255);
+    font-family: Now, Helvetica, sans-serif;
+    }
+
+#linha {
+    color: blueviolet;
+    padding: 5px;
+}
+
+#accordionFlushExample {
+    font-family: Now, Helvetica, sans-serif;
+}
